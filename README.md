@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨%20Welcome%20Layasri!%20✨;Full-Stack%20Developer%20%40%20VIT%20Bhopal;%F0%9F%8C%8DPython%20%2B%20Django%20Master;%F0%9F%92%BBReact%20%2B%20Tailwind%20Pro;&font=Fira%20Code&center=true&pause=250&color=00D4FF&width=700"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Layasri!;Full-Stack%20Developer%20%40%20VIT%20Bhopal;Python%20%2B%20Django;React%20%2B%20Tailwind;&font=Fira%20Code&center=true&pause=250&color=00D4FF&width=700"/>
 </p>
 
 <div align="center">
