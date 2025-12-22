@@ -1,4 +1,3 @@
-text
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=✨%20Welcome%20Layasri!%20✨;Full-Stack%20Developer%20%40%20VIT%20Bhopal;%F0%9F%8C%8DPython%20%2B%20Django%20Master;%F0%9F%92%BBReact%20%2B%20Tailwind%20Pro;&font=Fira%20Code&center=true&pause=250&color=00D4FF&width=700"/>
 </p>
@@ -16,7 +15,7 @@ text
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </div>
 
-## 🌟 **✨ Featured Masterpieces ✨**
+## 🌟 **✨ Featured Projects ✨**
 
 <div align="center">
 <table>
@@ -42,38 +41,35 @@ text
 </table>
 </div>
 
-## 📊 **🚀 GitHub Galaxy Stats 🚀**
+## 📊 **GitHub Stats**
 <div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=layasri157&theme=dark&background=1a1a1a"/>
 </div>
 
 ## 🛠️ **💎 Tech Stack 💎**
 <div align="center">
 
-| Backend | Frontend | Database | DevOps | ML |
-|---------|----------|----------|--------|----|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27C1D4?style=flat&logo=opencv&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-F63389?style=flat&logo=streamlit&logoColor=white) |
+| Backend | Frontend | Database | ML |
+|---------|----------|----------|----|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27C1D4?style=flat&logo=opencv&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-F63389?style=flat&logo=streamlit&logoColor=white) |
 
 </div>
 
-## 🔥 **⚡ Currently In Hyperdrive ⚡**
+## 🔥 **⚡ Currently Building ⚡**
 ✅ VTravelBuddy - Production ride-sharing app Live
 
 ✅ MyWasteSorter - AI waste sorting Live
 ~ 🔄 Advanced DSA - Placement prep
 ~ 🚀 Next.js v2 - Portfolio evolution
 
-text
-
-## 📫 **🌌 Connect Across Galaxies 🌌**
+## 📫 **🌌 Connect 🌌**
 <div align="center">
-  <a href="mailto:layasri157@gmail.com">
+  <a href="mailto:layasripusapati@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/layasri157">
+  <a href="[https://linkedin.com/in/layasri157](https://www.linkedin.com/in/layasri-pusapati-2b773b250/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://vtravelbuddy.onrender.com">
@@ -82,7 +78,6 @@ text
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=layasri157&color=00D4FF&style=for-the-badge&label=Profile%20Visitors"/>
   <img src="https://github-profile-trophy.vercel.app/?username=layasri157&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 </div>
 
