@@ -69,7 +69,7 @@
   <a href="mailto:layasripusapati@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  <a href="[https://linkedin.com/in/layasri157](https://www.linkedin.com/in/layasri-pusapati-2b773b250/)">
+  <a href="https://www.linkedin.com/in/layasri-pusapati-2b773b250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://vtravelbuddy.onrender.com">
