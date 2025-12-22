@@ -1,85 +1,93 @@
+text
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨%20Welcome%20Layasri!%20✨;Full-Stack%20Developer%20%40%20VIT%20Bhopal;%F0%9F%8C%8DPython%20%2B%20Django%20Master;%F0%9F%92%BBReact%20%2B%20Tailwind%20Pro;&font=Fira%20Code&center=true&pause=250&color=00D4FF&width=700"/>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20Layasri!%20👋;Full-Stack%20Developer;VIT%20Bhopal%20Student;Python%20%2B%20Django%20Expert;React%20%2B%20Tailwind%20Pro&font=Fira%20Code&center=true&pause=250&color=1E90FF&width=600"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
-  <a href="https://vtravelbuddy.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Live%20🚀-663399?style=for-the-badge&logo=render&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/🚀%20Status-Active%20Development-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://vtravelbuddy.onrender.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo%20🔥-663399?style=for-the-badge&logo=render&logoColor=white"/></a>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+</div>
 
-## 🌟 **Featured Projects**
-<table align="center">
+## 🌟 **✨ Featured Masterpieces ✨**
+
+<div align="center">
+<table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="45%">
   <a href="https://github.com/layasri157/vtravelbuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=vtravelbuddy&theme=radical&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=vtravelbuddy&theme=dark&bg_color=1a1a1a&title_color=00D4FF&icon_color=61DAFB"/>
   </a>
   <br><strong>🚗 VTravelBuddy</strong>
+  <br><em>Full-stack ride-sharing + chat</em>
   <br><a href="https://vtravelbuddy.onrender.com">🔴 Live Demo</a>
 </td>
-<td width="50%" align="center">
+<td align="center" width="10%"></td>
+<td align="center" width="45%">
   <a href="https://github.com/layasri157/MyWasteSorter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=MyWasteSorter&theme=radical&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=MyWasteSorter&theme=dark&bg_color=1a1a1a&title_color=00D4FF&icon_color=61DAFB"/>
   </a>
   <br><strong>🗑️ MyWasteSorter</strong>
+  <br><em>AI waste detection app</em>
   <br><a href="https://mywastesorter.streamlit.app">🔴 Live Demo</a>
 </td>
 </tr>
 </table>
-
-## 📊 **GitHub Analytics**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=layasri157&theme=radical"/>
 </div>
 
-## 🛠️ **Tech Stack**
-graph TB
-A[🐍 Python 3.11] --> B[🌐 Django 4.2]
-C[⚛️ React] --> D[🎨 Tailwind CSS]
-E[🗄️ PostgreSQL] --> F[📡 Redis]
-G[📦 Streamlit] --> H[👁️ OpenCV]
-I[⚙️ Git] --> J[☁️ Docker]
-style A fill:#3776AB
-style B fill:#092E20
-style C fill:#61DAFB
-style D fill:#38B2AC
+## 📊 **🚀 GitHub Galaxy Stats 🚀**
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
+  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=layasri157&theme=dark&background=1a1a1a"/>
+</div>
 
-## 🔥 **Currently Building**
-- [x] **VTravelBuddy** - Full-stack ride-sharing + chat ✅ Live
-- [ ] **MyWasteSorter** - Waste detection ML app ✅ Live  
-- [ ] Advanced DSA for placements
-- [ ] Next.js portfolio v2
+## 🛠️ **💎 Tech Stack 💎**
+<div align="center">
 
-## 📫 **Let's Connect!**
-<p align="center">
+| Backend | Frontend | Database | DevOps | ML |
+|---------|----------|----------|--------|----|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27C1D4?style=flat&logo=opencv&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-F63389?style=flat&logo=streamlit&logoColor=white) |
+
+</div>
+
+## 🔥 **⚡ Currently In Hyperdrive ⚡**
+✅ VTravelBuddy - Production ride-sharing app Live
+
+✅ MyWasteSorter - AI waste sorting Live
+~ 🔄 Advanced DSA - Placement prep
+~ 🚀 Next.js v2 - Portfolio evolution
+
+text
+
+## 📫 **🌌 Connect Across Galaxies 🌌**
+<div align="center">
   <a href="mailto:layasri157@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://linkedin.com/in/layasri157">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://vtravelbuddy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logoColor=white" height="40"/>
   </a>
-</p>
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=layasri157&color=1E90FF&style=for-the-badge&label=Profile+Views"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=layasri157&theme=radical&no-frame=true&no-bg=true"/>
+  <img src="https://komarev.com/ghpvc/?username=layasri157&color=00D4FF&style=for-the-badge&label=Profile%20Visitors"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=layasri157&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>👩‍💻 Built with ❤️ using GitHub Profile README</sub>
+  <img src="https://img.shields.io/badge/%F0%9F%92%AB%20Made%20with%20%E2%9D%A4%EF%B8%8F-GitHub%20Profile%20README-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
