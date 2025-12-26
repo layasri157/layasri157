@@ -35,7 +35,7 @@
   </a>
   <br><strong>🗑️ MyWasteSorter</strong>
   <br><em>AI waste detection app</em>
-  <br><a href="https://mywastesorter.streamlit.app">🔴 Live Demo</a>
+  <br><a href="https://mywastesorter-gkcr8wvpmbhocyildhgrft.streamlit.app/">🔴 Live Demo</a>
 </td>
 </tr>
 </table>
