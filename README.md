@@ -1,41 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Layasri!;Full-Stack%20Developer%20%40%20VIT%20Bhopal;Python%20%2B%20Django;React%20%2B%20Tailwind;&font=Fira%20Code&center=true&pause=250&color=00D4FF&width=700"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Layasri!;Full-Stack%20Developer;React%20Portfolio;Glassmorphism%20Design;Vite%20%2B%20Vercel;&font=Fira%20Code&center=true&pause=250&color=22c55e&width=700"/>
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚀%20Status-Active%20Development-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
-  <a href="https://vtravelbuddy.onrender.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo%20🔥-663399?style=for-the-badge&logo=render&logoColor=white"/></a>
+  <a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo%20🔥-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </div>
 
-## 🌟 **✨ Featured Projects ✨**
+## 🌟 **✨ Featured Portfolio ✨**
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="45%">
-  <a href="https://github.com/layasri157/vtravelbuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=vtravelbuddy&theme=dark&bg_color=1a1a1a&title_color=00D4FF&icon_color=61DAFB"/>
+<td align="center" width="100%">
+  <a href="https://github.com/layasri157/layasri-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=layasri-portfolio&theme=dark&bg_color=020617&title_color=22c55e&icon_color=22c55e"/>
   </a>
-  <br><strong>🚗 VTravelBuddy</strong>
-  <br><em>Full-stack ride-sharing + chat</em>
-  <br><a href="https://vtravelbuddy.onrender.com">🔴 Live Demo</a>
-</td>
-<td align="center" width="10%"></td>
-<td align="center" width="45%">
-  <a href="https://github.com/layasri157/MyWasteSorter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=layasri157&repo=MyWasteSorter&theme=dark&bg_color=1a1a1a&title_color=00D4FF&icon_color=61DAFB"/>
-  </a>
-  <br><strong>🗑️ MyWasteSorter</strong>
-  <br><em>AI waste detection app</em>
-  <br><a href="https://mywastesorter-gkcr8wvpmbhocyildhgrft.streamlit.app/">🔴 Live Demo</a>
+  <br><strong>🎨 layasri-portfolio</strong>
+  <br><em>Glassmorphism React portfolio with live project showcases</em>
+  <br><a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app">🔴 Live Demo</a> | <a href="https://github.com/layasri157/layasri-portfolio">📁 Source Code</a>
 </td>
 </tr>
 </table>
@@ -43,46 +33,48 @@
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=dark&bg_color=020617&title_color=22c55e"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&theme=dark&bg_color=020617&title_color=22c55e"/>
 </div>
 
 ## 🛠️ **💎 Tech Stack 💎**
 <div align="center">
 
-| Backend | Frontend | Database | ML |
-|---------|----------|----------|----|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27C1D4?style=flat&logo=opencv&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-F63389?style=flat&logo=streamlit&logoColor=white) |
+| Framework | Build Tool | Styling | Deployment |
+|-----------|------------|---------|------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat&logo=vite&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
 </div>
 
-## 🔥 **⚡ Currently Building ⚡**
-✅ VTravelBuddy - Production ride-sharing app Live
-
-✅ MyWasteSorter - AI waste sorting Live
-~ 🔄 Advanced DSA - Placement prep
-~ 🚀 Next.js v2 - Portfolio evolution
+## 🔥 **⚡ Portfolio Highlights ⚡**
+✅ Glassmorphism design with backdrop blur effects  
+✅ Fully responsive mobile-first layout  
+✅ Smooth hover animations & transitions  
+✅ Fixed navbar with smooth scrolling  
+✅ CSS Grid + Flexbox responsive grids  
+✅ Vite + Vercel Edge (instant loading)  
+✅ Built in **2 hours** from scratch  
 
 ## 📫 **🌌 Connect 🌌**
 <div align="center">
   <a href="mailto:layasripusapati@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/layasri-pusapati-2b773b250">
+  <a href="https://www.linkedin.com/in/layasri-pusapati-2b773b250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
-  <a href="https://vtravelbuddy.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logoColor=white" height="40"/>
+  <a href="https://github.com/layasri157">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=layasri157&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
+  <a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AB%20Made%20with%20%E2%9D%A4%EF%B8%8F-GitHub%20Profile%20README-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+**🚀 Built with React + Vite + Custom CSS + Vercel**  
+**✨ Glassmorphism Portfolio - Live Demo**
 </div>
+
