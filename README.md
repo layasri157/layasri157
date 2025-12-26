@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/layasri-pusapati-2b773b250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
-  <a href="https://vtravelbuddy.onrender.com">
+  <a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logoColor=white" height="40"/>
   </a>
 </div>
