@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Layasri!;Full-Stack%20Developer;React%20Portfolio;Glassmorphism%20Design;Vite%20%2B%20Vercel;&font=Fira%20Code&center=true&pause=250&color=22c55e&width=700"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Layasri!;Glassmorphism%20Portfolio;React%20%2B%20Vite;Live%20Project%20Demos;FastAI%20%26%20Django;Mobile-First%20Design;&font=Fira%20Code&center=true&pause=250&color=22c55e&width=700"/>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚀%20Status-Active%20Development-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
