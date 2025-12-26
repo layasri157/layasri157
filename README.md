@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚀%20Status-Active%20Development-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
-  <a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo%20🔥-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://layasri-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Demo%20🔥-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/layasri-pusapati-2b773b250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
-  <a href="https://layasri-portfolio-git-main-layasris-projects-7dd65d19.vercel.app/">
+  <a href="https://layasri-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logoColor=white" height="40"/>
   </a>
 </div>
