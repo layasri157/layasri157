@@ -41,11 +41,6 @@
 </table>
 </div>
 
-## 📊 **GitHub Stats**
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=layasri157&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layasri157&layout=compact&theme=dark&bg_color=1a1a1a&title_color=00D4FF"/>
-</div>
 
 ## 🛠️ **💎 Tech Stack 💎**
 <div align="center">
